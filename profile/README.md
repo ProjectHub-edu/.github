@@ -11,3 +11,18 @@ The main components of the service are:
   - Web client
   - Back-server
   - Android client
+
+## Our teams
+### WEB team
+- Oleksandr Melenko (Team Lead)
+- Maksym Pryhoda
+- Sofia Tryasko
+
+### Android team
+- Volodymyr
+- Liubomyr Pavlyk
+
+### Back-end team
+- Slava Fedyna
+- Voloshkevych
+- Alex Alexandrov
