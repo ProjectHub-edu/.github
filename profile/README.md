@@ -19,10 +19,10 @@ The main components of the service are:
 - Sofia Tryasko
 
 ### Android team
-- Volodymyr
-- Liubomyr Pavlyk
+- Liubomyr Pavlyk (Team Lead)
+- Volodymyr Labish
 
 ### Back-end team
-- Slava Fedyna
-- Voloshkevych
+- Yaroslav Fedyna (Team Lead)
+- Bohdan Voloshkevych
 - Alex Alexandrov
