@@ -1,10 +1,15 @@
 # ProjectHub
-ProjectHub is a service where people can team up to implement joint projects according to project topic, technology, direction and skill level.
+ProjectHub is a service where people can find a team to implement bigger projects according to a topic, technology, direction and skill level.
 
 ## Purpose of the project
-The purpose of this project is to acquire the necessary knowledge and skills, which are an indispensable condition for the development of a developer as a specialist.
-We aim to implement the key elements of a client-server application, which will give us an understanding of the development process itself,
-teamwork skills and proven skills in the relevant software development field.
+The purpose of this project is to help acquire the necessary knowledge and skills, which are an indispensable condition for the development of a developer as a specialist.
+
+## How to use it?
+Simple!
+- Open available projects list
+- Choose the project that you like
+- Join the project
+- Gain the real experience and develop your skills!
 
 ## Main components
 The main components of the service are:
